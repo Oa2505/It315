@@ -1,0 +1,47 @@
+{
+  "HikingTrails": [
+    {
+      "MoveName": "Flares",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/flares.jpg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Airflares",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/airflare.jpg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Headspins",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/headspins.jpeg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Nike Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/nikeFreeze.jpeg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Pike Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/pikeFreeze.jpg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Halo Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/haloFreeze.jpg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    },
+    {
+      "MoveName": "Hollowback Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/hollowback.jpg",
+      "MoveDescription": "8.0 mi",
+      "MoveVideo": "https://www.hikingupward.com/snp/oldrag/"
+    }
+  ],
+  "Status": "OK"
+}
